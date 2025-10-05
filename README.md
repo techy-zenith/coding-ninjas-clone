@@ -18,7 +18,7 @@ A fully responsive clone of [Coding Ninjas](https://www.codingninjas.com) built 
 
 ## 📦 Setup Instructions
 ### Clone repo
-git clone https://github.com/techy-zenith/coding-ninjas-clone.git
+git clone https://github.com/techy-zenith/coding-ninjas-clone.git <br>
 cd coding-ninjas-clone
 
 ### Install deps
