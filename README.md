@@ -17,15 +17,15 @@ A fully responsive clone of [Coding Ninjas](https://www.codingninjas.com) built 
 - JSON Server (Mock API)
 
 ## 📦 Setup Instructions
-# Clone repo
+### Clone repo
 git clone https://github.com/techy-zenith/coding-ninjas-clone.git
 cd coding-ninjas-clone
 
-# Install deps
+### Install deps
 npm install
 
-# Run mock API (on port 4000)
+### Run mock API (on port 4000)
 npm run mock:api
 
-# Run Vite dev server
+### Run Vite dev server
 npm run dev
