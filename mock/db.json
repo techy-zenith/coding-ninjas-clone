@@ -1,0 +1,7 @@
+{
+  "courses": [
+    { "id": 1, "title": "Full Stack Web Development", "description": "Learn MERN stack with real-world projects", "price": 4999 },
+    { "id": 2, "title": "Data Structures & Algorithms", "description": "Master DSA in C++/Java/Python", "price": 3999 },
+    { "id": 3, "title": "Machine Learning", "description": "Hands-on ML with Python and real-world datasets", "price": 5999 }
+  ]
+}
